@@ -10,9 +10,9 @@ regions:
   main_navigation: 'Main Navigation'
   content: 'Content'
   side_highlighted: 'Side Highlighted'
-  category_news1: 'Category News1'
-  category_news2: 'Category News2'
-  footer: 'Footer'
+  category1: 'Category News1'
+  category2: 'Category News2'
+  category3: 'Category News3'
 
 libraries:
   - news/bootstrap
